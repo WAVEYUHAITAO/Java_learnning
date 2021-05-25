@@ -1,0 +1,11 @@
+github        413168358@qq.com	 Theend521ok
+dockerhub 413168358               	 Theend521ok
+阿里云        鲸鱼货轮                                   Theend521ok  ip:121.40.131.165(公)  172.17.115.60（私）
+VNC pwd:   Yht521
+SM.MS      413168358@qq.com Theend521ok
+
+宝塔
+外网面板地址: http://121.40.131.165:8888/30ebaa0c
+内网面板地址: http://172.17.115.60:8888/30ebaa0c
+username: cnz77byj
+password: f3eb1d52
