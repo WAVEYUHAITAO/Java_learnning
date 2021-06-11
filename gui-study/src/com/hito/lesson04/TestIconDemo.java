@@ -1,7 +1,5 @@
 package com.hito.lesson04;
 
-import com.sun.jndi.toolkit.url.UrlUtil;
-
 import javax.swing.*;
 import java.awt.*;
 import java.net.URL;

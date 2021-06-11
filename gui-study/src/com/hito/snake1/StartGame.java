@@ -3,23 +3,16 @@ package com.hito.snake1;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
-import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.net.URL;
-import java.rmi.server.SkeletonMismatchException;
 import java.util.Random;
-import java.util.Timer;
 
-import javax.naming.InitialContext;
-import javax.naming.InsufficientResourcesException;
-import javax.naming.directory.DirContext;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import javax.xml.crypto.Data;
 
 public class StartGame {
     public static void main(String[] args) {
