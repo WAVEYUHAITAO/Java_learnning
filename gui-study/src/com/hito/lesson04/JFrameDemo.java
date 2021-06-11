@@ -1,8 +1,6 @@
 package com.hito.lesson04;
 
 import javax.swing.*;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
 
 public class JFrameDemo {
     //init(); 初始化
