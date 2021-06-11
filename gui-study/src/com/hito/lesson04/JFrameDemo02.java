@@ -1,9 +1,12 @@
 package com.hito.lesson04;
 
-import com.sun.org.apache.xml.internal.security.Init;
+import java.awt.Color;
+import java.awt.Container;
 
-import javax.swing.*;
-import java.awt.*;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
+import javax.swing.WindowConstants;
 
 public class JFrameDemo02 {
     public static void main(String[] args) {
