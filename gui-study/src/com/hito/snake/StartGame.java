@@ -18,7 +18,5 @@ public class StartGame {
         container.add(new GamePanel());
 
         frame.setVisible(true);
-
-
     }
 }
