@@ -19,5 +19,7 @@ public class StartGame {
 
         frame.setVisible(true);
 
+        
+
     }
 }
