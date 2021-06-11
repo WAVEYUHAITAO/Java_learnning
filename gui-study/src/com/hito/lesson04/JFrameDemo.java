@@ -1,5 +1,4 @@
 package com.hito.lesson04;
-
 import javax.swing.*;
 
 public class JFrameDemo {
