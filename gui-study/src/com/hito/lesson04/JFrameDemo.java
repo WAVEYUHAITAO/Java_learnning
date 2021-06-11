@@ -1,8 +1,5 @@
 package com.hito.lesson04;
-
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.WindowConstants;
+import javax.swing.*;
 
 public class JFrameDemo {
     //init(); 初始化
