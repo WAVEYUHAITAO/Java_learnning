@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c117916-413b-4115-b17d-f1580ae723ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-study/src/com/hito/lesson03/TestKeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-study/src/com/hito/lesson03/TestKeyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-study/src/com/hito/lesson04/JFrameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-study/src/com/hito/lesson04/JFrameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-study/src/com/hito/lesson04/JFrameDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-study/src/com/hito/lesson04/JFrameDemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui-study/src/com/hito/snake/StartGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-study/src/com/hito/snake/StartGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui-study/src/com/hito/snake1/StartGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/gui-study/src/com/hito/snake1/StartGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +72,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
