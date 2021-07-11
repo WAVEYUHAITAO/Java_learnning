@@ -121,7 +121,7 @@ public class GamePanel extends JPanel implements KeyListener, ActionListener {
             if(snakeX[0] ==foodx && snakeY[0] ==foody){
                 length++; //长度+1
                 score+=10;
-                if(score>=50){
+                if(score>=100){
                     isWin = true;
                 }
                 //再次随机食物位置
